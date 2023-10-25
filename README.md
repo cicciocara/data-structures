@@ -1,3 +1,4 @@
 # data-structures
-mainly data structures in c++
-repo for a quick look 
+
+built to store data-structures codes, mainly in c++.
+for a quick look
